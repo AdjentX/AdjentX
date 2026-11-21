@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**AdjentX** a independent full-stack developer!
+### Vibe Coding is the downfall of software integrity.
 - Currently working on my own socket chat software and more!
 - Primary languages: .C, .Py
 
