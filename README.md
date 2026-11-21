@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sup dawg!
 
 ### Vibe Coding is the downfall of software integrity.
 - Currently working on my own socket chat software and more!
