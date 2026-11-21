@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+**AdjentX** a independent full-stack developer!
+- Currently working on my own socket chat software and more!
+- Primary languages: .C, .Py
+
 <!--
 **AdjentX/AdjentX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
